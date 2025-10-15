@@ -62,7 +62,7 @@ Live Demo
 You can access the live version of your portfolio once it's deployed:
 GitHub Pages URL:
 https://your-username.github.io/personal-portfolio
-Demo Recording:
+Demo Recording: https://drive.google.com/drive/folders/10FVV-3Tj964fzwssvIIqOfJEugg_l-Hr?usp=sharing  
 Your demo link here
 Upload it to your Google Drive and verify that the file is set to be accessible to others).
 Walkthrough of the webpage and codebase.
